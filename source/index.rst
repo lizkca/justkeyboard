@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 仅用键盘's documentation!
+欢迎来到《 仅用键盘 》
 ====================================
 
 .. toctree::
